@@ -1,0 +1,12 @@
+
+Erlang is Great but HTTP handling even in cowboy need to much Memory >>> for 1M Request need 3GB <<< use asynchronous HTTP
+PowerNode
+
+is a Node for HTTP Handling in C_node and Dispatch to Beam Node
+With PowerNode
+
+PowerNode decrease from
+From ==> 1M Request per 3GB in MochiWeb
+To   ==> 1M Request per 1GB in PowerNode
+
+its Amazing ......
